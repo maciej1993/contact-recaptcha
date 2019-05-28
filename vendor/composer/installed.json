@@ -1,0 +1,51 @@
+[
+    {
+        "name": "recaptcha-lib/recaptcha",
+        "version": "v0.1.5",
+        "version_normalized": "0.1.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/adrianorsouza/reCAPTCHA-lib.git",
+            "reference": "0875e6deab68b9949033417d10db4d2aefeccdcb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/adrianorsouza/reCAPTCHA-lib/zipball/0875e6deab68b9949033417d10db4d2aefeccdcb",
+            "reference": "0875e6deab68b9949033417d10db4d2aefeccdcb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpdocumentor/phpdocumentor": "2.*",
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2018-08-09T21:15:11+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "ReCaptcha": "lib"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Adriano Rosa",
+                "email": "dev@adrianorosa.com",
+                "homepage": "http://adrianorosa.com"
+            }
+        ],
+        "description": "PHP Library for reCAPTCHA Google's API",
+        "homepage": "https://github.com/adrianorsouza/reCAPTCHA-lib",
+        "keywords": [
+            "captcha",
+            "recapcha-lib",
+            "recaptcha"
+        ]
+    }
+]

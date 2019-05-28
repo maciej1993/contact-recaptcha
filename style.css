@@ -1,0 +1,37 @@
+#body{
+	font-family: 'lato', sans-serif;
+
+}
+
+
+H1{
+	margin-bottom: 40px;
+	margin-top: center solid 10px;
+	width: 50%;
+	margin:0 auto;
+}
+
+lebel{
+	color: #333;
+}
+
+.btn-send{
+	font-weight: 300px;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	margin-bottom: 20px;
+}
+
+
+
+.help-block.with-errors{
+
+	color: #ff5050;
+	margin-top: 5px; 
+}
+
+
+
+
+
+
